@@ -13,7 +13,7 @@ Based on the data provided, the following key findings have been summarized:
    
    - It's a subset of 426K cars information available from original kaggle dataset [data/vehicles.csv](https://github.com/vbathena/auto-price-prediction/blob/main/data/vehicles.csv)
    - The data set contains 14 categorical and 4 numerical features.
-   - There are 74 duplicate entries that should be addressed.
+   - There are 0 duplicate entries that should be addressed.
 
 2. Missing Values:
 
